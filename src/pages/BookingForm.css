@@ -1,0 +1,35 @@
+input:invalid {
+  border-color: red
+}
+
+.justify-content-center {
+  border: 1px solid #ff6e35;
+  border-radius: 10px;
+  margin: 50px 0px;
+  padding: 50px 50px;
+}
+
+.h2-reserve {
+  color: #ff6e35;
+  display: inline-block;
+  border: 2px solid #ff6e35;
+  margin: 50px 0px 0px 0px;
+  padding: 9px 18px;
+}
+
+.table-booking-confirm-reserve-btn {
+  margin: 50px 0px 0px 0px;
+  width: 250px;
+  height: 50px;
+  color: #ffffff;
+  border: 2px solid #ff6e35;
+  border-radius: 10px;
+  background-color: #ff6e35;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.table-booking-confirm-reserve-btn:hover {
+  border: 2px solid #35ff46;
+  background-color: #ffffff;
+  color: #000000;
+}
